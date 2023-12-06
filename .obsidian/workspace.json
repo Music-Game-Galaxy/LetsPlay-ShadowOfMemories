@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "88a18569cbf1d524",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f0fbdedd10d5bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d445ff1a97f9b0a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "639e77de26c71d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episoden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9679e662ccaa46a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episoden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e720297ee0952a8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b438b8b477b84974",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c729d53d001175e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee527f52c0f8839d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c12e7ce7ef6a833",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10da68dde6e8aecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c195abbadb4a86ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "203d1d7fdb134fac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Episoden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1cfa3d4f92b341c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Episoden.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d71d2f738463e18d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "061edbe906c090f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Episoden.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9679e662ccaa46a5",
+  "lastOpenFiles": [
+    "Charaktere/Dana.md",
+    "Episoden.md",
+    "Charaktere/Homunkulus.md",
+    "Charaktere/Eike.md",
+    "Charaktere"
+  ]
+}
