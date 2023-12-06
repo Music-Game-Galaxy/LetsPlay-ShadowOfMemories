@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "88a18569cbf1d524",
+    "id": "b87f52ffb6e27391",
     "type": "split",
     "children": [
       {
-        "id": "dffe04a2392cb20a",
+        "id": "d96a3515d8286b34",
         "type": "tabs",
         "children": [
           {
-            "id": "2011becc0d9fa5c1",
+            "id": "7c955b85ed74ee1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episoden.md",
+                "file": "episoden.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e720297ee0952a8d",
+    "id": "3d50b05de0957662",
     "type": "split",
     "children": [
       {
-        "id": "b438b8b477b84974",
+        "id": "30a223b23acaba8a",
         "type": "tabs",
         "children": [
           {
-            "id": "9c729d53d001175e",
+            "id": "067d26e89619ea8b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "ee527f52c0f8839d",
+            "id": "298fc8133466434d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "4c12e7ce7ef6a833",
+            "id": "20d56254c1796853",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "10da68dde6e8aecb",
+    "id": "eebaba0d1604f096",
     "type": "split",
     "children": [
       {
-        "id": "c195abbadb4a86ce",
+        "id": "212bf9e598b9708d",
         "type": "tabs",
         "children": [
           {
-            "id": "203d1d7fdb134fac",
+            "id": "176204498e1c449f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episoden.md",
+                "file": "episoden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "b1cfa3d4f92b341c",
+            "id": "90bd86f6b32c3171",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episoden.md",
+                "file": "episoden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d71d2f738463e18d",
+            "id": "6afb009efa3e8f8c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "061edbe906c090f8",
+            "id": "91828eb8f5baee1c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episoden.md"
+                "file": "episoden.md"
               }
             }
           }
@@ -146,17 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2011becc0d9fa5c1",
+  "active": "7c955b85ed74ee1b",
   "lastOpenFiles": [
-    "Charaktere/Wahrsagerin.md",
-    "Sprecher.md",
-    "Charaktere/Dana.md",
-    "Untitled.canvas",
-    "2023-12-06.md",
-    "Episoden.md",
-    "Charaktere/episoden.md",
-    "Charaktere/Homunkulus.md",
-    "Charaktere/Eike.md",
-    "Charaktere"
+    "episoden.md",
+    "Homunkulus.md"
   ]
 }
