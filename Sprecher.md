@@ -6,4 +6,10 @@
 | Wahrsagerin | Kai | wie ein Geist |
 | Dana | Kai | etwas dumm |
 | Spaghettiesser | Daniele | wie Quina |
+| Margarethe | Kai | normale Frau |
+| Mutter von Margarethe | Jan | krank, krächtzend |
+| Hugo | Jan | krächtzend |
+
+
+
 
