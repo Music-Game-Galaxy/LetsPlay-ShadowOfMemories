@@ -22,11 +22,59 @@ Wir sprechen mehrfach mit der Cafe-Frau. Wir wissen immer mehr und kürzen das G
 # Episode 3
 Wir reisen in das Jahr 1580. Dabei nehmen wir versehentlich Dana mit.
 
-In der Vergangenheit wird Margarethe von alten Frauen belästigt, weil sie ein schönes Kleid trägt. Wir kommen an und verjagen die Frauen und den Nachtwächter mit unserem Telefon.
+In der Vergangenheit wird [[Margarethe]] von alten Frauen belästigt, weil sie ein schönes Kleid trägt. Wir kommen an und verjagen die Frauen und den Nachtwächter mit unserem Telefon.
 
-Margarethe nimmt uns nach Hause mit. Dort liegt ihre kranke Mutter im Bett. Ihr Bruder Hugo ist auch dort. Niemand weiß, wo Dana ist. Der Vater ist der Alchemist und arbeitet sehr viel.
+[[Margarethe]] nimmt uns nach Hause mit. Dort liegt ihre kranke Mutter im Bett. Ihr Bruder Hugo ist auch dort. Niemand weiß, wo Dana ist. Der [[Vater]] ist der Alchemist und arbeitet sehr viel.
 
 Auf dem Marktplatz pflanzt jemand den Baum. Er hört nur auf den Gutsherren.
 Wir geben einem Wächter die Postkarte, um Zutritt zur Villa zu bekommen. Dort holen wir uns mit der Leiter des Metzgers das Emblem des Lords. Damit befehlen wir dem Baumpflanzer, stattdessen Blumen zu pflanzen (es wäre auch eine Statue möglich gewesen).
 
-Danach reisen wir zurück in die Gegenwart. Ende Kapitel 2.
+Danach reisen wir zurück in die Gegenwart. Dana haben wir in der Vergangenheit gelassen. Ende Kapitel 2.
+
+# Episode 4
+Kapitel 3 Start
+Wir werden von einer fallenden Vase erschlagen.
+Wieder am Leben ruft Herr Eckard an und fragt uns, ob wir nicht zu ihm ins Museum kommen wollten. Er gibt uns ein Buch über Alchemie. Außerdem fragt er uns, ob wir eine Katze haben wollen oder jemanden kennen.
+
+Im Erdgeschoss begegnen wir das erste Mal Homunkulus in der echten Welt. 
+
+Wir wollen einen Beweis.
+Homunculus schickt uns nach 1979. Herr Eckard sagt dort, dass ihm eine Tochter geboren wurde.
+
+Wieder zurück in der Gegenwart: Wir besuchen wieder Herrn Eckard.
+Herr Eckard hatte eine Frau und eine Tochter, aber das Kind wurde entführt und die Frau dabei getötet. 
+
+Homunkulus sagt, er habe einen schwachen Körper und konnte neulich nicht einmal ein Baby halten. Außerdem sollen wir den roten Stein ([[Philosophenstein]]) besorgen.
+
+Ende Kapitel 3
+
+# Episode 5
+Kapitel 4 
+Wir stehen auf der Straße und sterben. Homunkulus rät uns, uns mit einer Eisenplatte zu schützen.
+Im Alchemistenbuch finden wir ein altes Foto. Wir reisen nach 1902. 
+
+Wir treffen dort Herrn Alfred Brum. Er ist der Besitzer des Gebäudes, das ein Museum wird. Er stammt vom Gutsherren ab. Seine Frau ist gestorben und er lebt mit seinen beiden Kindern alleine im Haus.
+
+Seine Tochter Sibylla freut sich, dass das Gebäude nicht verkauft wird. Herr Brum will Herrn Franssen, den Fotografen, holen, um ein Foto machen zu lassen. 
+
+Sibylla flickt die Jacke von Eike. Er zieht so lange ein Jongleurskostüm an. Außerdem bekommt er ein Ei, in das man Textnachrichten schreiben kann. Er möchte eine Bratpfanne (als Eisenplatte) haben, aber es gibt keine im Haus. Er möchte daher an eine Bratpfanne aus der Bar zum Ei kommen. Dazu schreibt Eike eine Nachricht an sich selbst, reist ins Jahr 2001 und tritt auf dem Marktplatz als Jongleur auf, wo er sich selbst das Ei zuwirft. 
+
+Das Foto wird gemacht, Eike ist als Jongleur verkleidet auf dem Foto.
+Sibylla verhält sich komisch: "Auf diesen Trick falle ich nicht nochmal rein.", "Sie können den Schlüssel so oft benutzen, wie Sie möchten."
+
+Wir reisen zurück nach 2001 und benutzen schnell die Bratpfanne. Dadurch sterben wir dieses Mal nicht.
+
+Kapitel 4 Ende
+
+Kapitel 5 Start
+Eike hat Hunger. Wir gehen in die Bar zum Ei. Dort bestellen wir essen und lesen im Alchemistenbuch:
+
+Die Alchemie hat zwei Projekte:
+- Lebenselixir, das alle Krankheiten heilen kann
+- Homunculus, künstliches Leben
+Beide brauchen einen roten Stein, den Philosophenstein.
+
+Außerdem Wolfgang Wagner, der Alchemist. Er starb bei einer Explosion in seinem Haus.
+
+Das Essen wird beim Servieren vergiftet.
+Außerhalb des Hauses sprechen wir kurz mit Homunkulus. Er mag das Pentagramm auf dem Alchemistenbuch nicht. Danach sterben wir. Homunkulus sagt uns, dass wir vergiftet wurden, vermutlich das Gift des Seehases. Wir sollen es selbst recherchieren, aber statt der Bibliothek gibt es leider nur ein Museum...
