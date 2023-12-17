@@ -9,6 +9,9 @@
 | Margarethe | Kai | normale Frau |
 | Mutter von Margarethe | Jan | krank, krächtzend |
 | Hugo | Jan | krächtzend |
+| Herr Eckard / Alfred Brum | Kai | schnaufend |
+| Sibylle Brum | Jan | Kind |
+| Franssen | Kai | Nase zu |
 
 
 

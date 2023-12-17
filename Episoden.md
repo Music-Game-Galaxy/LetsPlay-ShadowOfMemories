@@ -53,7 +53,7 @@ Kapitel 4
 Wir stehen auf der Straße und sterben. Homunkulus rät uns, uns mit einer Eisenplatte zu schützen.
 Im Alchemistenbuch finden wir ein altes Foto. Wir reisen nach 1902. 
 
-Wir treffen dort Herrn Alfred Brum. Er ist der Besitzer des Gebäudes, das ein Museum wird. Er stammt vom Gutsherren ab. Seine Frau ist gestorben und er lebt mit seinen beiden Kindern alleine im Haus.
+Wir treffen dort Herrn [[Alfred Brum]]. Er ist der Besitzer des Gebäudes, das ein Museum wird. Er stammt vom Gutsherren ab. Seine Frau ist gestorben und er lebt mit seinen beiden Kindern alleine im Haus.
 
 Seine Tochter Sibylla freut sich, dass das Gebäude nicht verkauft wird. Herr Brum will Herrn Franssen, den Fotografen, holen, um ein Foto machen zu lassen. 
 

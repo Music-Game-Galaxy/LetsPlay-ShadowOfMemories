@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episoden.md",
+                "file": "Sprecher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episoden.md",
+                "file": "Sprecher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episoden.md",
+                "file": "Sprecher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episoden.md"
+                "file": "Sprecher.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2011becc0d9fa5c1",
   "lastOpenFiles": [
-    "Sprecher.md",
     "Episoden.md",
+    "Sprecher.md",
     "Charaktere/Vater.md",
     "Charaktere/Margarethe.md",
     "Charaktere/Dana.md",
