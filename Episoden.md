@@ -78,3 +78,19 @@ Außerdem Wolfgang Wagner, der Alchemist. Er starb bei einer Explosion in seinem
 
 Das Essen wird beim Servieren vergiftet.
 Außerhalb des Hauses sprechen wir kurz mit Homunkulus. Er mag das Pentagramm auf dem Alchemistenbuch nicht. Danach sterben wir. Homunkulus sagt uns, dass wir vergiftet wurden, vermutlich das Gift des Seehases. Wir sollen es selbst recherchieren, aber statt der Bibliothek gibt es leider nur ein Museum...
+
+# Episode 6
+In der Bar zum Ei quatscht uns der Besitzer über seine Besessenheit von allem Ovalen und zu seinen Enkeln zu.
+
+Wir reisen ins Jahr 1584. Das Alchemistenhaus ist explodiert. Ein Hund liegt vor der Tür. Wir gehen zum Metzger und bekommen Restfleisch. Damit lenken wir den Hund ab und holen uns im Haus den Schlüssel zum Labor. Der vermutlich gerade geborene Homunculus ist im Keller und verschwindet.
+
+Nun geht es weiter im Jahr 1582. Im Keller treffen wir Dr. Wagner. Er arbeitet an der Erschaffung des Homunculus und möchte von uns den Philosophenstein haben.
+
+Im Erdgeschoss treffen wir auf Margarethe. Ihre Mutter ist seit unserem letzten Besuch (1580, vor zwei Jahren) gestorben. Ihr Bruder Hugo geht zur Schule.
+
+
+Wir laufen mit Margarethe durch die Stadt, sie will etwas abliefern. Als sie kurz weg ist, sehen wir eine Person von hinten. Eike nimmt an, es könnte Dana sein, verfolgt sie, aber verliert sie. 
+
+Wir sind wieder im Alchemistenhaus. Eike nimmt an, dass Margarethe seine Vorfahrin sein könnte. Wir entscheiden uns zweimal dafür, ihr nichts davon zu sagen.
+
+Hugo kommt ins Haus. Er trägt immer noch die Locke seiner Mutter mit sich. Margarethe und Hugo streiten sich, Hugo geht in den Keller. Margarethe schenkt Eike ihren Kamm.
