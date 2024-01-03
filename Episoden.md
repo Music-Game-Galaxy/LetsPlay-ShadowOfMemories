@@ -94,3 +94,55 @@ Wir laufen mit Margarethe durch die Stadt, sie will etwas abliefern. Als sie kur
 Wir sind wieder im Alchemistenhaus. Eike nimmt an, dass Margarethe seine Vorfahrin sein könnte. Wir entscheiden uns zweimal dafür, ihr nichts davon zu sagen.
 
 Hugo kommt ins Haus. Er trägt immer noch die Locke seiner Mutter mit sich. Margarethe und Hugo streiten sich, Hugo geht in den Keller. Margarethe schenkt Eike ihren Kamm.
+
+# Episode 7
+
+
+s/w Vergangenheit:
+ - Museum -> Bibliothek
+ - Sibylla will eine Katze
+ 
+Gegenwart: 
+- Gegengift des Seehasen im Buch nachlesen
+- Katze holen
+- 
+s/w Vergangenheit:
+- Sibylla die Katze geben
+
+Sepia-Vergangenheit:
+- Die Zeit läuft ab
+- Margarethe gibt uns das Gegengift
+- Wir sterben, weil die Zeit abgelaufen ist
+
+Dann alles nochmal, aber wir geben Sibylla die Katze nicht. Wir gehen in die Gegenwart zurück, benutzen das Gegengift und sterben nicht.
+
+Ende Kapitel 5
+# Episode 8
+Zwei Frauen betrachten ein Filmplakat. Es geht um einen meditierenden Mann. Sie finden es langweilig und gehen weiter. Eike wird von einem Auto überfahren. Homunkulus rät, nicht alleine zu sein.
+
+s/w Vergangenheit (1902):
+- Wir geben Sibylla die Katze
+
+Wir reisen nach März 1980 an einem kalten Wintertag. 
+- Oleg, der Regisseur, fragt uns nach einem Thema für seinen Film. Wir antworten
+	- "Etwas über Reisen durch die Zeit"
+	- Grund: "Die Weltherrschaft zu erlangen"
+- Antiquitätenladen: Wir schauen uns die Sachen an
+- Wir bewundern die Bäckerei
+
+Zurück in die Gegenwart:
+- Die Frauen finden das Filmthema gut, aber die Filme des Regisseurs seinen immer so abgehoben. Sie gehen weiter, wir werden überfahren. 
+
+Wieder März 1980:
+- Oleg:
+	- "Etwas über Reisen durch die Zeit"
+	- "Den Grund für den eigenen Tod zu finden"
+	- --> Oleg fragt nach anderen Ideen
+	- "Wie wäre es mit einer Liebesgeschichte"
+	- Oleg schenkt uns eine eiförmige Taschenuhr
+- Wir laufen noch etwas durch die Stadt
+- 14:49:05: Wir hören einen Schuss
+	- Wir finden die Frau von Herrn Eckard (Miriam) auf dem Boden. Sie fragt nach ihrem Baby. Dann bricht sie zusammen.
+	- Herr Eckard kommt dazu und fragt nach seiner Tochter Dana.
+- Wir haben immer noch die Katze.
+- Wir können nach 14:36 Uhr zurückreisen.

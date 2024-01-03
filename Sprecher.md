@@ -1,7 +1,7 @@
 
 | Charakter | Sprecher | spricht wie |
-| -------- | -------- | -------- |  
-| Eike | Daniele | normal |  
+| ---- | ---- | ---- |
+| Eike | Daniele | normal |
 | Homunkulus | Jan | schnell |
 | Wahrsagerin | Kai | wie ein Geist |
 | Dana | Kai | etwas dumm |
@@ -12,6 +12,8 @@
 | Herr Eckard / Alfred Brum | Kai | schnaufend |
 | Sibylle Brum | Jan | Kind |
 | Franssen | Kai | Nase zu |
+| Vater von Margarethe | Daniele | alt, heiser |
+|  |  |  |
 
 
 
