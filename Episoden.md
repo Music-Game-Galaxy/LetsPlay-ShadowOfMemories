@@ -97,15 +97,13 @@ Hugo kommt ins Haus. Er trägt immer noch die Locke seiner Mutter mit sich. Marg
 
 # Episode 7
 
-
-s/w Vergangenheit:
+s/w Vergangenheit (1902):
  - Museum -> Bibliothek
  - Sibylla will eine Katze
  
 Gegenwart: 
 - Gegengift des Seehasen im Buch nachlesen
 - Katze holen
-- 
 s/w Vergangenheit:
 - Sibylla die Katze geben
 
@@ -146,3 +144,53 @@ Wieder März 1980:
 	- Herr Eckard kommt dazu und fragt nach seiner Tochter Dana.
 - Wir haben immer noch die Katze.
 - Wir können nach 14:36 Uhr zurückreisen.
+
+# Episode 9
+Wir reisen in die Zeit vor dem Schuss und versuchen Dana zu warnen ("Ihr Baby ist echt süß"). Klappt aber nicht, sie wird trotzdem erschossen und Eike wird am Tatort gesehen und für verdächtig gehalten.
+
+Wir reisen in die Gegenwart. Homunculus weist uns auf die Schwierigkeit hin, ein anderes Leben zu retten. Oleg hatte eine gute Idee für seinen Film. Es sind viele Menschen beim Plakat und Eike wird nicht überfahren.
+
+Herr Eckard ruft an und will uns sehen.
+
+Ende Kapitel 6
+
+Anfang Kapitel 7
+Wir sind im Turm der Bibliothek. Oben werden wir vom Turm gestoßen.
+
+s/w Zeit
+- Katze abgeben (das letzte Mal)
+
+Gegenwart
+- Wir kommen nicht in den Turm, brauchen einen Schlüssel
+
+s/w Zeit
+- holen den Schlüssel
+- vermeiden es, uns selbst zu begegnen
+
+Abend vor dem Turmfall
+- Wir finden ein altes Seil, denken aber, dass es uns nicht helfen wird
+
+1980
+- Das Seil ist dort auch schon alt
+
+s/w Zeit
+- Wir finden ein neues Seil
+
+Nacht davor
+- Wir befestigen das neue Seil
+- Herr Eckard telefoniert mit jemandem und plant unseren Mord
+
+# Episode 10
+
+Gegenwart
+- Wir gehen auf den Turm, werden gestoßen, halten uns am Seil fest und überleben
+- Wir verlieren den Kamm von Margarethe
+- Wir sprechen mit Herrn Eckard. Er entschuldigt sich, ihm wurde Danas Rückkehr für Eikes Tod versprochen. Er hat uns beim Tod seiner Frau gesehen.
+- Wir sehen ein Bild von Dana mit dem Philosophenstein
+
+Sepia-Zeit
+- Wir treffen Dana beim Atelier. Sie ist seit 4 Jahren hier und möchte nicht mehr zurück.
+- "Gehen wir zusammen zurück, Dana"
+- Dana will nicht zurück, verspricht aber, darüber nachzudenken
+- Sie gibt uns den Stein
+- Wir geben den Stein Dr. Wagner. Er will einen Homunculus erschaffen. Wir sollen in 10 Tagen wiederkommen. Wir sollen Margarethe und Hugo nichts sagen, er würde versuchen seine Mutter wiederzubeleben.
