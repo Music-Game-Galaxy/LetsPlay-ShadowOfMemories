@@ -186,6 +186,8 @@ Gegenwart
 - Wir gehen auf den Turm, werden gestoßen, halten uns am Seil fest und überleben
 - Wir verlieren den Kamm von Margarethe
 - Wir sprechen mit Herrn Eckard. Er entschuldigt sich, ihm wurde Danas Rückkehr für Eikes Tod versprochen. Er hat uns beim Tod seiner Frau gesehen.
+
+Ende Kapitel 7 / Anfang Kapitel 8
 - Wir sehen ein Bild von Dana mit dem Philosophenstein
 
 Sepia-Zeit
@@ -194,3 +196,28 @@ Sepia-Zeit
 - Dana will nicht zurück, verspricht aber, darüber nachzudenken
 - Sie gibt uns den Stein
 - Wir geben den Stein Dr. Wagner. Er will einen Homunculus erschaffen. Wir sollen in 10 Tagen wiederkommen. Wir sollen Margarethe und Hugo nichts sagen, er würde versuchen seine Mutter wiederzubeleben.
+# Episode 11
+Wir kommen wieder aus dem Keller. Hugo interessiert sich dafür, was wir mit seinem Vater besprochen haben. Dr. Wagner kommt aus dem Keller, kündigt ein gefährliches Experiment an und schickt seine Kinder aus dem Haus.
+
+(Wir machen viel Zeug, weshalb wir dann sterben, weil die Zeit zu weit fortgeschritten ist.)
+
+10 Tage später kommen wir zurück. Das Haus ist explodiert. Wir hören Margarethe im Keller, finden sie dort nicht, aber eine Zeitmaschine, die auf 2001 eingestellt ist. Wir reisen dorthin. Hugo ruft uns an.
+- Er hat Herrn Eckard bedroht
+- Hugo aus der Zukunft hat ihm die Zeitmaschine gegeben
+- Wir sollen zum Marktplatz kommen
+
+Wir kommen auf dem Marktplatz an. Flashback: Hugo war der Junge, der die Bar zum Ei angezündet hat.
+
+Hugo will uns töten. Er denkt, wir haben seinen Vater dazu überredet, den Homunkulus zu erschaffen. Er hat die Forschungsunterlagen seines Vaters gelesen. Er wollte vor uns da sein, um uns zu stoppen, kann uns mit seiner Maschine aber nur folgen. Er will Homunculus nun vernichten, so an den Stein kommen und seine Mutter wieder zum Leben erwecken. Wir sollen ihm den Homunculus bringen.
+# Episode 12
+Wir reisen in die Vergangenheit. Im Keller finden wir die Forschungsunterlagen und verbrennen sie. Hugo in der Vergangenheit kann sie nicht mehr lesen. Zurück in der Gegenwart lösen Hugo und Margarethe sich auf, da Hugo nie die Zeitmaschine gebaut hat. 
+
+Ende Kapitel 8
+
+
+Epilog 
+Homunculus trifft uns auf dem Marktplatz. Er wollte erschaffen werden und hat dazu alles in die Wege geleitet. Er will das Digipad zurück, Eike gibt es ihm. Er geht.
+
+In der Vergangenheit: Dr. Wagner erschafft gerade den Homunculus. Homunculus fragt ihn, was er begehren würde. Dafür bekommt er nach seinem Tod dessen Seele. Dr. Wagner erkennt, dass alles umsonst war und bittet seine tote Frau um Vergebung (Helena). Er verlangt von H. seine Jugend zurück und will auch so jung bleiben. Er ist neidisch auf die Jugend von Eike. H. verwandelt ihn daraufhin in Eike. Dr. Wagner bannt H. mit einem Pentagramm zurück in den Stein. H. kann aber an einer Stelle durchbrechen und löscht das Gedächtnis von Dr. Wagner. Dr. Wagner nimmt den Stein mit und läuft durch die Straßen von Lebensbaum.
+
+Ende D
