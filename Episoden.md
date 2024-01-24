@@ -221,3 +221,9 @@ Homunculus trifft uns auf dem Marktplatz. Er wollte erschaffen werden und hat da
 In der Vergangenheit: Dr. Wagner erschafft gerade den Homunculus. Homunculus fragt ihn, was er begehren würde. Dafür bekommt er nach seinem Tod dessen Seele. Dr. Wagner erkennt, dass alles umsonst war und bittet seine tote Frau um Vergebung (Helena). Er verlangt von H. seine Jugend zurück und will auch so jung bleiben. Er ist neidisch auf die Jugend von Eike. H. verwandelt ihn daraufhin in Eike. Dr. Wagner bannt H. mit einem Pentagramm zurück in den Stein. H. kann aber an einer Stelle durchbrechen und löscht das Gedächtnis von Dr. Wagner. Dr. Wagner nimmt den Stein mit und läuft durch die Straßen von Lebensbaum.
 
 Ende D
+# Episode 13 + Episode 14
+Unterschiede:
+- Wir bekommen früh das Ei vom Jongleur. Dieses tauschen wir bei der Bar zum Ei gegen eine Bratpfanne ein.
+- Wir wissen bei der Reise in die Vergangenheit bereits vom Seehasengift und bekommen es direkt.
+# Episode 15
+- Wir sagen Margarethe, dass sie unsere Vorfahrin ist
