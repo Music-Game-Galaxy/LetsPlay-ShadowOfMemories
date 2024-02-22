@@ -227,3 +227,45 @@ Unterschiede:
 - Wir wissen bei der Reise in die Vergangenheit bereits vom Seehasengift und bekommen es direkt.
 # Episode 15
 - Wir sagen Margarethe, dass sie unsere Vorfahrin ist
+- Frau im Schnee haben wir übersprungen
+- Eckard redet mehr über den Kamm
+# Episode 16
+- Dana bleibt in der Vergangenheit (keine Wahl)
+- Wir gehen zur Wahrsagerin, während Hugo uns schickt den Homunkulus zu suchen. Die Wahrsagerin ist der Geist der Mutter von Hugo und Margarethe. Hugo geht ins Haus und stirbt.
+- Eike bringt 
+- Ende B
+
+## Ending E (offen)
+- M. nicht sagen, dass sie unsere Vorfahrin ist
+- Dana fragen, ob sie mit uns zurück kommt
+- Dana eine Nachricht vom Cafe Sonne aus 2001 überbringen
+- Ins zerstörte Labor gehen
+
+## Ending D
+- M. nicht sagen, dass sie unsere Vorfahrin ist
+- Dana fragen, ob sie mit uns zurück kommt und sie trotzdem dort lassen ODER Dana nicht fragen
+- Ins zerstörte Labor gehen
+--> Homunculus macht Dr. Wagner zu Eike
+
+## Ending C (offen)
+- M. sagen, dass sie unsere Vorfahrin ist
+- Nicht Homunculus aus 1980 holen UND nicht ins Haus der Wahrsagerin gehen, sondern ins zerstörte Labor gehen
+
+## Ending B1
+- M. sagen, dass sie unsere Vorfahrin ist
+- Wenn Hugo verlangt, dass wir den Homunculus holen, zur Wahrsagerin gehen
+--> Die Wahrsagerin ist die Mutter von M. und Hugo
+--> Hugo stirbt im Haus der Wahrsagerin
+--> M. möchte zurück in die Vergangenheit, Eike bringt sie zurück
+
+## Ending B2 (offen)
+- M. sagen, dass sie unsere Vorfahrin ist
+- Wenn Hugo verlangt, dass wir den Homunculus holen, nach 1980 gehen (und ihn holen?)
+
+## Ending A (offen)
+- M. sagen, dass sie unsere Vorfahrin ist
+- Sowohl den Homunculus aus 1980 holen ALS AUCH das Haus der Wahrsagerin betreten
+
+## Ending EX1
+
+## Ending EX2
