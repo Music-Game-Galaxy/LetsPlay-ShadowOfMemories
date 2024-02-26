@@ -235,11 +235,14 @@ Unterschiede:
 - Eike bringt 
 - Ende B
 
-## Ending E (offen)
+## Ending E
 - M. nicht sagen, dass sie unsere Vorfahrin ist
 - Dana fragen, ob sie mit uns zurück kommt
 - Dana eine Nachricht vom Cafe Sonne aus 2001 überbringen
 - Ins zerstörte Labor gehen
+--> Hugo nimmt Dana als Geisel
+--> Wir nehmen Margarethe mit in die Gegenwart. Sie überredet Hugo, dass sie wieder in die Vergangenheit zurückgehen.
+--> Homunculus erzählt, wie er Dr. Wagner verschwinden ließ. Vermutlich ist es aber eine Lüge.
 
 ## Ending D
 - M. nicht sagen, dass sie unsere Vorfahrin ist
