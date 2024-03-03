@@ -250,10 +250,12 @@ Unterschiede:
 - Ins zerstörte Labor gehen
 --> Homunculus macht Dr. Wagner zu Eike
 
-## Ending C (offen)
+## Ending C
 - M. sagen, dass sie unsere Vorfahrin ist
 - Nicht Homunculus aus 1980 holen UND nicht ins Haus der Wahrsagerin gehen, sondern ins zerstörte Labor gehen
-
+--> Der alte Hugo taucht im Labor auf und bringt die Zeitmaschine zum jungen Hugo.
+--> Der jungte Hugo berührt den alten Hugo und sie löschen sich aus. Margarethe wird ohnmächtig. Eike reist wieder nach 2001.
+--> Homunculus verabschiedet sich. Eike freut sich, dass er am Leben ist und wird von einem Auto überfahren.
 ## Ending B1
 - M. sagen, dass sie unsere Vorfahrin ist
 - Wenn Hugo verlangt, dass wir den Homunculus holen, zur Wahrsagerin gehen
@@ -267,7 +269,7 @@ Unterschiede:
 
 ## Ending A (offen)
 - M. sagen, dass sie unsere Vorfahrin ist
-- Sowohl den Homunculus aus 1980 holen ALS AUCH das Haus der Wahrsagerin betreten
+- Sowohl den Homunculus aus 1980 holen (zuerst) ALS AUCH das Haus der Wahrsagerin betreten
 
 ## Ending EX1
 
