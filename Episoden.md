@@ -263,13 +263,21 @@ Unterschiede:
 --> Hugo stirbt im Haus der Wahrsagerin
 --> M. möchte zurück in die Vergangenheit, Eike bringt sie zurück
 
-## Ending B2 (offen)
+## Ending B2
 - M. sagen, dass sie unsere Vorfahrin ist
 - Wenn Hugo verlangt, dass wir den Homunculus holen, nach 1980 gehen (und ihn holen?)
-
-## Ending A (offen)
+--> 
+## Ending A
 - M. sagen, dass sie unsere Vorfahrin ist
 - Sowohl den Homunculus aus 1980 holen (zuerst) ALS AUCH das Haus der Wahrsagerin betreten
+--> Homunculus erschafft einen "Dr. Wagner", der Hugo in die Hölle mitnimmt. Es war aber nicht Dr. Wagner, da dieser noch lebt.
+--> Margarethe möchte in unserer Zeit bleiben. Wir sagen zu.
+--> Das Digipad fällt herunter und Homunculus stirbt.
+
+# Das nächste Mal
+- Savestate laden
+	- Bevor wir ins Haus der Wahrsagerin gehen: Nicht reingehen, B2 machen
+	- Ending A: Margarethe sagen, dass wir sie nach Hause bringen
 
 ## Ending EX1
 
