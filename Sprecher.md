@@ -1,18 +1,18 @@
 
 | Charakter | Sprecher | spricht wie |
 | ---- | ---- | ---- |
-| Eike | Daniele | normal |
-| Homunkulus | Jan | schnell |
-| Wahrsagerin | Kai | wie ein Geist |
-| Dana | Kai | etwas dumm |
-| Spaghettiesser | Daniele | wie Quina |
+| Eike | DJDON | normal |
+| Homunkulus | BROOK | schnell |
+| Wahrsagerin | MCCID | wie ein Geist |
+| Dana | MCCID | etwas dumm |
+| Spaghettiesser | DJDON | wie Quina |
 | Margarethe | Kai | normale Frau |
-| Mutter von Margarethe | Jan | krank, krächtzend |
-| Hugo | Jan | krächtzend |
-| Herr Eckard / Alfred Brum | Kai | schnaufend |
-| Sibylle Brum | Jan | Kind |
-| Franssen | Kai | Nase zu |
-| Vater von Margarethe | Daniele | alt, heiser |
+| Mutter von Margarethe | BROOK | krank, krächtzend |
+| Hugo | BROOK | krächtzend |
+| Herr Eckard / Alfred Brum | MCCID | schnaufend |
+| Sibylle Brum | BROOK | Kind |
+| Franssen | MCCID | Nase zu |
+| Vater von Margarethe | DJDON | alt, heiser |
 |  |  |  |
 
 
