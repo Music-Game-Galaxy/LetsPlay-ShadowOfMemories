@@ -6,7 +6,7 @@
 | Wahrsagerin | MCCID | wie ein Geist |
 | Dana | MCCID | etwas dumm |
 | Spaghettiesser | DJDON | wie Quina |
-| Margarethe | Kai | normale Frau |
+| Margarethe | MCCID | normale Frau |
 | Mutter von Margarethe | BROOK | krank, krächtzend |
 | Hugo | BROOK | krächtzend |
 | Herr Eckard / Alfred Brum | MCCID | schnaufend |
